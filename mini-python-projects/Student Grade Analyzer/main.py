@@ -110,4 +110,4 @@ for nomarat in range(10):
 
 # Developed By AmirHosseinKhani.py
 # Email : amirsesemi6@gmail.com
-# instagram : AmirHossein.py
+# instagram : AmirHosseinKhani.py
